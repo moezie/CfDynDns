@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "CfDynDns": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "URL_IP_API": "https://localhost:7026",
+        "POLL_FREQUENCY": "60"
+      },
+      "dotnetRunMessages": true
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
