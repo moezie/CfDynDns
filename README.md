@@ -40,7 +40,7 @@ The appsettings.json consists of multiple sections explained below.
 <tr><th>Setting</th><th>Description</th><th>Default value</th></tr>
 <tr>
 	<td><strong>UrlIpApi</strong></td>
-	<td>A URL that returns your IP address. You can use any site as long as the URL returns the IP address in plain text. The default URL is adviced.</td>
+	<td>A URL that returns your IP address. You can use any site as long as the URL returns the IP address in plain text or you can host your own by using the IpApi project in this solution. This site should be hosted on a other host than the IP address that you wish to monitor. The default URL is adviced.</td>
 	<td><a href="https://myip.moes.network/">https://myip.moes.network/</a></td>
 </tr>
 <tr>
