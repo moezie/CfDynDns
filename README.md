@@ -1,6 +1,12 @@
 # Cloudflare Dynamic DNS
 This project is NOT related or maintained by Cloudflare.
 
+##
+![Static Badge](https://img.shields.io/badge/Docker-oezie%2Fcfdyndns-blue?logo=docker&link=https%3A%2F%2Fhub.docker.com%2Fr%2Foezie%2Fcfdyndns)
+![Static Badge](https://img.shields.io/badge/Source-moezie%2FCfDynDns-green?logo=github&link=https%3A%2F%2Fgithub.com%2Fmoezie%2FCfDynDns)
+![Static Badge](https://img.shields.io/badge/License-Apache_2.0-orange?link=https%3A%2F%2Fgithub.com%2Fmoezie%2FCfDynDns%2Fblob%2Fmaster%2FLICENSE.txt)
+
+
 ## Description
 The software will check the IP address of the given DNS records in Cloudflare and will match it against the current public IP address. The software will update the IP address of the DNS records in Cloudflare through the API when the IP addresses differ from the current public IP address.
 
