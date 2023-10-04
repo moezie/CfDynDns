@@ -2,9 +2,9 @@
 This project is NOT related or maintained by Cloudflare.
 
 ##
-![Static Badge](https://img.shields.io/badge/Docker-oezie%2Fcfdyndns-blue?logo=docker&link=https%3A%2F%2Fhub.docker.com%2Fr%2Foezie%2Fcfdyndns)
-![Static Badge](https://img.shields.io/badge/Source-moezie%2FCfDynDns-green?logo=github&link=https%3A%2F%2Fgithub.com%2Fmoezie%2FCfDynDns)
-![Static Badge](https://img.shields.io/badge/License-Apache_2.0-orange?link=https%3A%2F%2Fgithub.com%2Fmoezie%2FCfDynDns%2Fblob%2Fmaster%2FLICENSE.txt)
+[![Static Badge](https://img.shields.io/badge/Docker-oezie%2Fcfdyndns-blue?logo=docker)](https://hub.docker.com/r/oezie/cfdyndns)
+[![Static Badge](https://img.shields.io/badge/Source-moezie%2FCfDynDns-green?logo=github)](https://github.com/moezie/CfDynDns)
+[![Static Badge](https://img.shields.io/badge/License-Apache_2.0-orange)](https://github.com/moezie/CfDynDns/blob/master/LICENSE.txt)
 
 
 ## Description
